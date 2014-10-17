@@ -1,3 +1,5 @@
+[ ![Codeship Status for Lapalissiano/infinitest](https://www.codeship.io/projects/b8577440-383b-0132-a045-46665d4115f9/status)](https://www.codeship.io/projects/41936)
+
 Notes for new developers
 =========================
 
